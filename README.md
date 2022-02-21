@@ -1,6 +1,6 @@
 # about-me
 
-![hates-potatoes](https://user-images.githubusercontent.com/81344719/154903860-69e14c78-19b7-43cc-8e63-0d187465fcc0.svg)
+https://forthebadge.com/generator/?plabel=MADE+BY&slabel=POTATOES&pbg=%23C13B3A&sbg=%23E46C17
 
 
 just a intro page to spice up my profile on githib
