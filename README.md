@@ -7,4 +7,4 @@
 # Hi!
 
 I see you've made it to my github page, not sure why but hello
-I'm Carpy, Carpyjet, or Lachlan im a student from australia who makes some things, feel free to have a look at all my private repositorys or check out my [site](lachlan.link)
+I'm Carpy, Carpyjet, or Lachlan im a student from australia who makes some things, feel free to have a look at all my private repositorys or check out my [site](https://www.lachlan.link)
