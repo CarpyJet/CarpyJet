@@ -8,3 +8,7 @@
 
 I see you've made it to my github page, not sure why but hello
 I'm Carpy, Carpyjet, or Lachlan im a student from australia who makes some things, feel free to have a look at all my private repositorys or check out my [site](https://www.lachlan.link)
+
+Thanks for checking me out!
+
+![dowanlaodaf](https://user-images.githubusercontent.com/81344719/154906227-26663185-ef1e-44bd-953d-b82083b7030e.png)
