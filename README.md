@@ -4,7 +4,7 @@
 ![made-with-crayons](https://user-images.githubusercontent.com/81344719/154905348-d8d6611b-fde7-4efc-97bd-0b6ab4ba227f.svg)
 
 
-#Hi!
+# Hi!
 
 I see you've made it to my github page, not sure why but hello
-I'm Carpy or CarpyJet a student from australia who makes some things, feel free to have a look at all my private repositorys or check out my [site](lachlan.link)
+I'm Carpy, Carpyjet, or Lachlan im a student from australia who makes some things, feel free to have a look at all my private repositorys or check out my [site](lachlan.link)
